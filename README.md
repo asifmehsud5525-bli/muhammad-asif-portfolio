@@ -98,7 +98,6 @@ JavaScript is used to provide interactive functionality such as:
 
 ## 📁 Project Structure
 
-```text
 portfolio/
 │
 ├── index.html
@@ -108,11 +107,18 @@ portfolio/
 │   │   └── style.css
 │   │
 │   ├── js/
-│   │   └── script.js
+│   │   └── app.js
 │   │
 │   ├── images/
+│   │   └── fiverr profile.png
 │   │
 │   └── documents/
-│       └── My Resume.pdf
+│       └── myResume.pdf
+│
+├── documents/
+│   ├── blueprint.md
+│   ├── development-notes.md
+│   ├── project-overview.md
+│   └── requirements.md
 │
 └── README.md
