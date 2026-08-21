@@ -98,6 +98,9 @@ JavaScript is used to provide interactive functionality such as:
 
 ## 📁 Project Structure
 
+## Project Structure
+
+```text
 portfolio/
 │
 ├── index.html
@@ -122,3 +125,4 @@ portfolio/
 │   └── requirements.md
 │
 └── README.md
+```
